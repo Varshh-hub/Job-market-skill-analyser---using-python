@@ -164,10 +164,5 @@ This project helped me strengthen my understanding of:
 
 **Varsha A**
 
-B.Sc. Artificial Intelligence & Machine Learning Graduate
+AI & ML Graduate | Junior Data Scientist & Machine Learning Engineer | Python | SQL | Excel | Power BI | Prompt Engineer | Front-End Developer 
 
-Aspiring Data Scientist | Python Developer | SQL | Power BI | Machine Learning
-
----
-
-⭐ If you found this project helpful, consider giving it a star!
