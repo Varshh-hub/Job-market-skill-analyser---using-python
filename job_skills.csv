@@ -1,0 +1,6 @@
+Job_ID,Role,Company,Skills
+1,Data Analyst,Google,excel sql python tableau
+2,Data Scientist,Microsoft,python machinelearning statistics pandas numpy
+3,Business Intelligence Analyst,Amazon,excel sql powerbi dashboard
+4,Data Engineer,Netflix,python sql spark hadoop aws
+5,Machine Learning Engineer,IBM,python tensorflow deeplearning pytorch
