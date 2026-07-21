@@ -1,0 +1,17 @@
+Top Skills
+python: 4
+sql: 3
+excel: 2
+tableau: 1
+machinelearning: 1
+statistics: 1
+pandas: 1
+numpy: 1
+powerbi: 1
+dashboard: 1
+spark: 1
+hadoop: 1
+aws: 1
+tensorflow: 1
+deeplearning: 1
+pytorch: 1
